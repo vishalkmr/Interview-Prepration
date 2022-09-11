@@ -10,12 +10,9 @@ Contains basic code samples for a topic along with the LeetCode problems
 - [Two Sum](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/1.%20Two%20Sum.ipynb) | Easy
 - [Top K Frequent Elements](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/347.%20Top%20K%20Frequent%20Elements.ipynb) | Medium
 - [Product of Array Except Self](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.ipynb) | Medium
-- [Check if Every Row and Column Contains All Numbers]() | Easy
+- [Check if Every Row and Column Contains All Numbers](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.ipynb) | Easy
 - [Valid Sudoku](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/36.%20Valid%20Sudoku.ipynb) | Medium
-
-
-
-[]()
+- [Longest Consecutive Sequence](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/128.%20Longest%20Consecutive%20Sequence.ipynb) | Medium
 []()
 []()
 []()
