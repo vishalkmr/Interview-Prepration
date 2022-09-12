@@ -15,7 +15,7 @@ Prefix+Postfix
 - [Check if Every Row and Column Contains All Numbers](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.ipynb) | Easy | Hash-set
 - [Valid Sudoku](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/36.%20Valid%20Sudoku.ipynb) | Medium | Hash-set
 - [Longest Consecutive Sequence](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/128.%20Longest%20Consecutive%20Sequence.ipynb) | Medium | Set
-[]()
+- [Intersection of Two Arrays II](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb) | Easy | Hash-set
 []()
 []()
 []()
