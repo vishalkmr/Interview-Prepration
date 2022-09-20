@@ -4,6 +4,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 ## Arrays & Hashing
 - [Two Sum](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/1.%20Two%20Sum.ipynb) | Easy | 
 Hashing
+- [Two Sum II - Input Array Is Sorted](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb) | Medium | Two-pointers
 - [Contains Duplicate](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.ipynb) | Easy | Hashing/Sets
 - [Contains Duplicate II](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/219.%20Contains%20Duplicate%20II%20.ipynb) | Easy | Hashing
 - [Valid Anagram](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/242.%20Valid%20Anagram.ipynb) | Easy | Hashing
