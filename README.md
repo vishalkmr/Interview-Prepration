@@ -26,7 +26,7 @@ Prefix+Postfix
 - [Valid Palindrome](https://github.com/vishalkmr/Interview-Prepration/blob/main/Strings/125.%20Valid%20Palindrome.ipynb) | Easy | Two-pointers
 - [Encode and Decode Strings](https://github.com/vishalkmr/Interview-Prepration/blob/main/Strings/659%20%C2%B7%20Encode%20and%20Decode%20Strings.ipynb) | Medium | 
 Encoding/Decoding
-[]()
+- [Longest Common Prefix]()
 []()
 []()
 []()
