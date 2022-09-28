@@ -4,7 +4,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 ## Arrays & Hashing
 | Problem | Level | Topic  | Leetcode |
 |  :---: | :---: | :---: | :---: |
-| <a href="https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.ipynb?flush_cache=true" style="color: green; text-decoration: none;">Two Sum</a> | <span style="color:green">**Easy**</span>  |  <span style="color:green">**Hashing**</span> | <a href="https://leetcode.com/problems/two-sum" style="color: green; text-decoration: none;">1</a> |
+| <a href="https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/1.%20Two%20Sum.ipynb?flush_cache=true" style="color: green; text-decoration: none;">Two Sum</a> | <span style="color:green">**Easy**</span>  |  <span style="color:green">**Hashing**</span> | <a href="https://leetcode.com/problems/two-sum" style="color: green; text-decoration: none;">1</a> |
 |[Two Sum II - Input Array Is Sorted](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb?flush_cache=true)| Medium | Two-pointers |[167](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted)|
 |[3Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/15.%203Sum.ipynb?flush_cache=true)|Medium | Two-pointers|[15](https://leetcode.com/problems/3sum)|
 |[Contains Duplicate](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.ipynb?flush_cache=true)|Easy | Hashing/Sets|[217](https://leetcode.com/problems/contains-duplicate)|
