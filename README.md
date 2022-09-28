@@ -2,31 +2,6 @@
 Contains basic code samples for a topic along with the LeetCode problems
 
 ## Arrays & Hashing
-- [Two Sum II - Input Array Is Sorted](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb) 
-- [3Sum](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/15.%203Sum.ipynb) 
-- [Contains Duplicate](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.ipynb) | Easy | Hashing/Sets
-- [Contains Duplicate II](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/219.%20Contains%20Duplicate%20II%20.ipynb) | Easy | Hashing
-- [Valid Anagram](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/242.%20Valid%20Anagram.ipynb) | Easy | Hashing
-- [Find Resultant Array After Removing Anagrams](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.ipynb) | Easy | Hashing
-- [Group Anagrams](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/49.%20Group%20Anagrams.ipynb) | Medium | Hashing
-- [Top K Frequent Elements](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/347.%20Top%20K%20Frequent%20Elements.ipynb) | Medium | Hashing+Bucket-Sort
-- [Product of Array Except Self](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.ipynb) | Medium | 
-Prefix+Postfix
-- [Check if Every Row and Column Contains All Numbers](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.ipynb) | Easy | Hash-set
-- [Valid Sudoku](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/36.%20Valid%20Sudoku.ipynb) | Medium | Hash-set
-- [Longest Consecutive Sequence](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/128.%20Longest%20Consecutive%20Sequence.ipynb) | Medium | Set
-- [Intersection of Two Arrays](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/349.%20Intersection%20of%20Two%20Arrays.ipynb) | Easy | Set
-- [Intersection of Two Arrays II](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb) | Easy | Hashing
-- [Container With Most Water](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/11.%20Container%20With%20Most%20Water.ipynb) | Medium | Two-pointers
-
-
-## Strings
-- [Valid Palindrome](https://github.com/vishalkmr/Interview-Prepration/blob/main/Strings/125.%20Valid%20Palindrome.ipynb) | Easy | Two-pointers
-- [Encode and Decode Strings](https://github.com/vishalkmr/Interview-Prepration/blob/main/Strings/659%20%C2%B7%20Encode%20and%20Decode%20Strings.ipynb) | Medium | 
-Encoding/Decoding
-
-
-## Arrays & Hashing
 - [Two Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/1.%20Two%20Sum.ipynb?flush_cache=true) | Easy | Hashing
 - [Two Sum II - Input Array Is Sorted](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb?flush_cache=true) | Medium | Two-pointers
 - [3Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/15.%203Sum.ipynb?flush_cache=true) | Medium | Two-pointers
@@ -44,9 +19,20 @@ Encoding/Decoding
 - [Intersection of Two Arrays II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb?flush_cache=true) | Easy | Hashing
 - [Container With Most Water](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/11.%20Container%20With%20Most%20Water.ipynb?flush_cache=true) | Medium | Two-pointers
 
+## Strings
+- [Valid Palindrome](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/125.%20Valid%20Palindrome.ipynb?flush_cache=true) | Easy | Two-pointers
+- [Longest Common Prefix](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/14.%20Longest%20Common%20Prefix.ipynb?flush_cache=true)
+- [Implement strStr()](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/28.%20Implement%20strStr%28%29.ipynb?flush_cache=true)
+- [Longest Substring Without Repeating Characters](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb?flush_cache=true)
+- [Reverse String](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/344.%20Reverse%20String.ipynb?flush_cache=true)
+- [First Unique Character in a String](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/387.%20First%20Unique%20Character%20in%20a%20String.ipynb?flush_cache=true)
+- [Longest Repeating Character Replacement](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/424.%20Longest%20Repeating%20Character%20Replacement.ipynb?flush_cache=true)
+- [Encode and Decode Strings](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/659.%20Encode%20and%20Decode%20Strings.ipynb?flush_cache=true) | Medium | Encoding/Decoding
+
 
 ## Back Tracking
 - [Subsets](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Back%20Tracking/78.%20Subsets.ipynb?flush_cache=true)
+
 
 ## Dynamic Programming
 - [01 Knapsack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/01%20Knapsack.ipynb?flush_cache=true)
@@ -76,11 +62,13 @@ Encoding/Decoding
 - [Count Subset ](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/Count%20Subset%20.ipynb?flush_cache=true)
 - [Subset Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/Subset%20Sum.ipynb?flush_cache=true)
 
+
 ## Graph
 - [Surrounded Regions-Copy1](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Graph/130.%20Surrounded%20Regions-Copy1.ipynb?flush_cache=true)
 - [Surrounded Regions](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Graph/130.%20Surrounded%20Regions.ipynb?flush_cache=true)
 - [Number of Islands](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Graph/200.%20Number%20of%20Islands.ipynb?flush_cache=true)
 - [Max Area of Island](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Graph/695.%20Max%20Area%20of%20Island.ipynb?flush_cache=true)
+
 
 ## Linked Lists
 - [Linked List Cycle](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/141.%20Linked%20List%20Cycle.ipynb?flush_cache=true)
@@ -91,6 +79,7 @@ Encoding/Decoding
 - [Palindrome Linked List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/234.%20Palindrome%20Linked%20List.ipynb?flush_cache=true)
 - [Delete Node in a Linked List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/237.%20Delete%20Node%20in%20a%20Linked%20List.ipynb?flush_cache=true)
 - [Find the Duplicate Number](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/287.%20Find%20the%20Duplicate%20Number.ipynb?flush_cache=true)
+
 
 ## Logical
 - [Pascal's Triangle](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Logical/118.%20Pascal%27s%20Triangle.ipynb?flush_cache=true)
@@ -125,24 +114,17 @@ Encoding/Decoding
 - [Sqrt(x)](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Searching/69.%20Sqrt%28x%29.ipynb?flush_cache=true)
 - [Search a 2D Matrix](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Searching/74.%20Search%20a%202D%20Matrix.ipynb?flush_cache=true)
 
+
 ## Sorting
 - [Sorting](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Sorting/0.%20Sorting.ipynb?flush_cache=true)
 - [Remove Duplicates from Sorted Array](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Sorting/26.%20Remove%20Duplicates%20from%20Sorted%20Array.ipynb?flush_cache=true)
 - [Global and Local Inversions](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Sorting/775.%20Global%20and%20Local%20Inversions.ipynb?flush_cache=true)
 - [Merge Sorted Array](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Sorting/88.%20Merge%20Sorted%20Array.ipynb?flush_cache=true)
 
+
 ## Stacks
 - [Valid Parentheses](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/20.%20Valid%20Parentheses.ipynb?flush_cache=true)
 
-## Strings
-- [Valid Palindrome](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/125.%20Valid%20Palindrome.ipynb?flush_cache=true) | Easy | Two-pointers
-- [Longest Common Prefix](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/14.%20Longest%20Common%20Prefix.ipynb?flush_cache=true)
-- [Implement strStr()](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/28.%20Implement%20strStr%28%29.ipynb?flush_cache=true)
-- [Longest Substring Without Repeating Characters](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/3.%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb?flush_cache=true)
-- [Reverse String](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/344.%20Reverse%20String.ipynb?flush_cache=true)
-- [First Unique Character in a String](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/387.%20First%20Unique%20Character%20in%20a%20String.ipynb?flush_cache=true)
-- [Longest Repeating Character Replacement](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/424.%20Longest%20Repeating%20Character%20Replacement.ipynb?flush_cache=true)
-- [Encode and Decode Strings](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/659.%20Encode%20and%20Decode%20Strings.ipynb?flush_cache=true) | Medium | Encoding/Decoding
 
 ## Trees
 - [Same Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/100.%20Same%20Tree.ipynb?flush_cache=true)
@@ -175,6 +157,7 @@ Encoding/Decoding
 - [Binary Tree With Given Sum From Root](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Binary%20Tree%20With%20Given%20Sum%20From%20Root.ipynb?flush_cache=true)
 - [Number Of Paths in Binary Tree With Given Sum From Root](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Number%20Of%20Paths%20in%20Binary%20Tree%20With%20Given%20Sum%20From%20Root.ipynb?flush_cache=true)
 - [Path From Root to Given Node In Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Path%20From%20Root%20to%20Given%20Node%20In%20Binary%20Tree.ipynb?flush_cache=true)
+
 
 ## Trie
 - [Implement Trie (Prefix Tree)](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trie/208.%20Implement%20Trie%20%28Prefix%20Tree%29.ipynb?flush_cache=true)
