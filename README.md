@@ -2,8 +2,7 @@
 Contains basic code samples for a topic along with the LeetCode problems
 
 ## Arrays & Hashing
-- [Two Sum](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/1.%20Two%20Sum.ipynb) | Easy | 
-Hashing
+- -[Two Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays & Hashing/1. Two Sum.ipynb?flush_cache=true) | Easy | Hashing
 - [Two Sum II - Input Array Is Sorted](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb) | Medium | Two-pointers
 - [3Sum](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/15.%203Sum.ipynb) | Medium | Two-pointers
 - [Contains Duplicate](https://github.com/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.ipynb) | Easy | Hashing/Sets
