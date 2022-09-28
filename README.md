@@ -2,6 +2,8 @@
 Contains basic code samples for a topic along with the LeetCode problems
 
 ## Arrays & Hashing
+| First Header  | Second Header | 3rd |
+| --- | --- | --- |
 - [Two Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/1.%20Two%20Sum.ipynb?flush_cache=true) | Easy | Hashing
 - [Two Sum II - Input Array Is Sorted](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb?flush_cache=true) | Medium | Two-pointers
 - [3Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/15.%203Sum.ipynb?flush_cache=true) | Medium | Two-pointers
@@ -18,6 +20,27 @@ Contains basic code samples for a topic along with the LeetCode problems
 - [Intersection of Two Arrays](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/349.%20Intersection%20of%20Two%20Arrays.ipynb?flush_cache=true) | Easy | Set
 - [Intersection of Two Arrays II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb?flush_cache=true) | Easy | Hashing
 - [Container With Most Water](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/11.%20Container%20With%20Most%20Water.ipynb?flush_cache=true) | Medium | Two-pointers
+
+
+## Arrays & Hashing
+| Problem | Topic | Code Link | Leetcode Link |
+|       :---:     |       :---:     |       :---:     |       :---:     |
+|Two Sum||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/1.%20Two%20Sum.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/two-sum)|
+|Container With Most Water||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/11.%20Container%20With%20Most%20Water.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/container-with-most-water)|
+|Longest Consecutive Sequence||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/128.%20Longest%20Consecutive%20Sequence.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/longest-consecutive-sequence)|
+|3Sum||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/15.%203Sum.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/3sum)|
+|Two Sum II - Input Array Is Sorted||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/two-sum-ii---input-array-is-sorted)|
+|Check if Every Row and Column Contains All Numbers||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers)|
+|Contains Duplicate||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/contains-duplicate)|
+|Contains Duplicate II ||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/219.%20Contains%20Duplicate%20II%20.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/contains-duplicate-ii)|
+|Find Resultant Array After Removing Anagrams||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/2273.%20Find%20Resultant%20Array%20After%20Removing%20Anagrams.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams)|
+|Product of Array Except Self||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/product-of-array-except-self)|
+|Valid Anagram||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/242.%20Valid%20Anagram.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/valid-anagram)|
+|Top K Frequent Elements||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/347.%20Top%20K%20Frequent%20Elements.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/top-k-frequent-elements)|
+|Intersection of Two Arrays||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/349.%20Intersection%20of%20Two%20Arrays.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/intersection-of-two-arrays)|
+|Intersection of Two Arrays II||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/intersection-of-two-arrays-ii)|
+|Valid Sudoku||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/36.%20Valid%20Sudoku.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/valid-sudoku)|
+|Group Anagrams||[link](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays%20%26%20Hashing/49.%20Group%20Anagrams.ipynb?flush_cache=true)|[link](https://leetcode.com/problems/group-anagrams)|
 
 ## Strings
 - [Valid Palindrome](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/125.%20Valid%20Palindrome.ipynb?flush_cache=true) | Easy | Two-pointers
