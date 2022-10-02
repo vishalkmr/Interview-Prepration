@@ -20,6 +20,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Intersection of Two Arrays](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/349.%20Intersection%20of%20Two%20Arrays.ipynb?flush_cache=true)|Easy | Set|[349](https://leetcode.com/problems/intersection-of-two-arrays)|
 |[Intersection of Two Arrays II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb?flush_cache=true)|Easy | Hashing|[350](https://leetcode.com/problems/intersection-of-two-arrays-ii)|
 |[Container With Most Water](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/11.%20Container%20With%20Most%20Water.ipynb?flush_cache=true)|Medium | Two-pointers|[11](https://leetcode.com/problems/container-with-most-water)|
+|[Trapping Rain Water](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/42.%20Trapping%20Rain%20Water.ipynb?flush_cache=true)|  Hard  | Prefix+Postfix / Two-pointers   |[42](https://leetcode.com/problems/trapping-rain-water)|
 
 
 ## Strings
