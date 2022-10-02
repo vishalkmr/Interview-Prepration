@@ -21,7 +21,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Intersection of Two Arrays II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb?flush_cache=true)|Easy | Hashing|[350](https://leetcode.com/problems/intersection-of-two-arrays-ii)|
 |[Container With Most Water](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/11.%20Container%20With%20Most%20Water.ipynb?flush_cache=true)|Medium | Two-pointers|[11](https://leetcode.com/problems/container-with-most-water)|
 |[Trapping Rain Water](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/42.%20Trapping%20Rain%20Water.ipynb?flush_cache=true)|  Hard  | Prefix+Postfix / Two-pointers   |[42](https://leetcode.com/problems/trapping-rain-water)|
-|[Best Time to Buy and Sell Stock](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.ipynb?flush_cache=true)| Easy  | Sliding Window |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|
+|[Best Time to Buy and Sell Stock](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.ipynb?flush_cache=true)| Easy  | Sliding Window |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|
 
 
 ## Strings
