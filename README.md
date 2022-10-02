@@ -21,6 +21,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Intersection of Two Arrays II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb?flush_cache=true)|Easy | Hashing|[350](https://leetcode.com/problems/intersection-of-two-arrays-ii)|
 |[Container With Most Water](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/11.%20Container%20With%20Most%20Water.ipynb?flush_cache=true)|Medium | Two-pointers|[11](https://leetcode.com/problems/container-with-most-water)|
 |[Trapping Rain Water](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/42.%20Trapping%20Rain%20Water.ipynb?flush_cache=true)|  Hard  | Prefix+Postfix / Two-pointers   |[42](https://leetcode.com/problems/trapping-rain-water)|
+|[Best Time to Buy and Sell Stock](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.ipynb?flush_cache=true)| Easy  | Sliding Window |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|
 
 
 ## Strings
@@ -46,7 +47,6 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[01 Knapsack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/01%20Knapsack.ipynb?flush_cache=true)|    |    |[]()|
 |[Longest Common Subsequence](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.ipynb?flush_cache=true)|    |    |[1143](https://leetcode.com/problems/longest-common-subsequence)|
 |[Distinct Subsequences](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/115.%20Distinct%20Subsequences.ipynb?flush_cache=true)|    |    |[115](https://leetcode.com/problems/distinct-subsequences)|
-|[Best Time to Buy and Sell Stock](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.ipynb?flush_cache=true)|    |    |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|
 |[Word Break](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/139.%20Word%20Break.ipynb?flush_cache=true)|    |    |[139](https://leetcode.com/problems/word-break)|
 |[Maximum Product Subarray](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/152.%20Maximum%20Product%20Subarray.ipynb?flush_cache=true)|    |    |[152](https://leetcode.com/problems/maximum-product-subarray)|
 |[House Robber](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/198.%20House%20Robber.ipynb?flush_cache=true)|    |    |[198](https://leetcode.com/problems/house-robber)|
