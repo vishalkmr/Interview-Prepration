@@ -39,7 +39,9 @@ Contains basic code samples for a topic along with the LeetCode problems
 ## Back Tracking
 | Problem | Level | Topic  | Leetcode |
 |  :---: | :---: | :---: | :---: |
-|[Subsets](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Back%20Tracking/78.%20Subsets.ipynb?flush_cache=true)|    |    |[78](https://leetcode.com/problems/subsets)|
+|[Subsets](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/78.%20Subsets.ipynb?flush_cache=true)|  Medium  | Add or Not ADD Element to current subset   |[78](https://leetcode.com/problems/subsets)|
+|[Combination Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/39.%20Combination%20Sum.ipynb?flush_cache=true)|  Medium  | Add or Not ADD element to current candidate list   |[39](https://leetcode.com/problems/combination-sum)|
+
 
 ## Dynamic Programming
 | Problem | Level | Topic  | Leetcode |
