@@ -35,13 +35,15 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[First Unique Character in a String](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/387.%20First%20Unique%20Character%20in%20a%20String.ipynb?flush_cache=true)|||[387](https://leetcode.com/problems/first-unique-character-in-a-string)|
 |[Longest Repeating Character Replacement](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/424.%20Longest%20Repeating%20Character%20Replacement.ipynb?flush_cache=true)|||[424](https://leetcode.com/problems/longest-repeating-character-replacement)|
 |[Encode and Decode Strings](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/659.%20Encode%20and%20Decode%20Strings.ipynb?flush_cache=true)|Medium | Encoding/Decoding|[659](https://leetcode.com/problems/encode-and-decode-strings)|
+|[String Power-Set](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/String%20Power-Set.ipynb?flush_cache=true)|  Medium  | Add or Not ADD element to current substring   |[]()|
+|[String Permutations](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/String%20Permutations.ipynb?flush_cache=true)|  Medium  | Recursively backtrack the unused element for permutation   |[]()|
 
 ## Back Tracking
 | Problem | Level | Topic  | Leetcode |
 |  :---: | :---: | :---: | :---: |
-|[Subsets](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/78.%20Subsets.ipynb?flush_cache=true)|  Medium  | Add or Not ADD Element to current subset   |[78](https://leetcode.com/problems/subsets)|
+|[Subsets](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/78.%20Subsets.ipynb?flush_cache=true)|  Medium  | Add or Not ADD element to current subset   |[78](https://leetcode.com/problems/subsets)|
 |[Combination Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/39.%20Combination%20Sum.ipynb?flush_cache=true)|  Medium  | Add or Not ADD element to current candidate list   |[39](https://leetcode.com/problems/combination-sum)|
-
+|[Permutations](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/46.%20Permutations.ipynb?flush_cache=true)|  Medium  | Recursively backtrack the unused element for permutation   |[46](https://leetcode.com/problems/permutations)
 
 ## Dynamic Programming
 | Problem | Level | Topic  | Leetcode |
