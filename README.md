@@ -45,8 +45,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Subsets II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/90.%20Subsets%20II.ipynb?flush_cache=true)|  Medium  | Add or skip all element with same value for current subset   |[90](https://leetcode.com/problems/subsets-ii)|
 |[Combination Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/39.%20Combination%20Sum.ipynb?flush_cache=true)|  Medium  | Add or skip element for current candidate list   |[39](https://leetcode.com/problems/combination-sum)|
 |[Combination Sum II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/40.%20Combination%20Sum%20II.ipynb?flush_cache=true)|  Medium  | Permutaion on sum and skipping duplicate by sorting   |[40](https://leetcode.com/problems/combination-sum-ii)|
-|[Permutations](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/46.%20Permutations.ipynb?flush_cache=true)|
-Medium  | Recursively backtrack the unused element for permutation   |[46](https://leetcode.com/problems/permutations)
+|[Permutations](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/46.%20Permutations.ipynb?flush_cache=true)| Medium  | Recursively backtrack the unused element for permutation   |[46](https://leetcode.com/problems/permutations)
 
 ## Dynamic Programming
 | Problem | Level | Topic  | Leetcode |
