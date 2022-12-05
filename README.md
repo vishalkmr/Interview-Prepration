@@ -148,8 +148,8 @@ Contains basic code samples for a topic along with the LeetCode problems
 ## Stacks
 | Problem | Level | Topic  | Leetcode |
 |  :---: | :---: | :---: | :---: |
-|[Stack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/Stack.ipynb?flush_cache=true)|  Basic  | |[]()|
-|[Valid Parentheses](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/20.%20Valid%20Parentheses.ipynb?flush_cache=true)|    |    |[20](https://leetcode.com/problems/valid-parentheses)|
+|[Stack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/Stack.ipynb?flush_cache=true)|  Basic  |    |[]()|
+|[Valid Parentheses](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/20.%20Valid%20Parentheses.ipynb?flush_cache=true)|  Easy  | Stack   |[20](https://leetcode.com/problems/valid-parentheses)|
 
 
 ## Trees
