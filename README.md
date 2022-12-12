@@ -46,6 +46,8 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Combination Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/39.%20Combination%20Sum.ipynb?flush_cache=true)|  Medium  | Add or skip element for current candidate list   |[39](https://leetcode.com/problems/combination-sum)|
 |[Combination Sum II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/40.%20Combination%20Sum%20II.ipynb?flush_cache=true)|  Medium  | Permutaion on sum and skipping duplicate by sorting   |[40](https://leetcode.com/problems/combination-sum-ii)|
 |[Permutations](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/46.%20Permutations.ipynb?flush_cache=true)| Medium  | Recursively backtrack the unused element for permutation   |[46](https://leetcode.com/problems/permutations)
+|[Generate Parentheses](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Back%20Tracking/22.%20Generate%20Parentheses.ipynb?flush_cache=true)|  Medium  | Recursively add paranthesis such that open-count >= close_count   |[22](https://leetcode.com/problems/generate-parentheses)|
+
 
 ## Dynamic Programming
 | Problem | Level | Topic  | Leetcode |
@@ -150,6 +152,8 @@ Contains basic code samples for a topic along with the LeetCode problems
 |  :---: | :---: | :---: | :---: |
 |[Stack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/Stack.ipynb?flush_cache=true)|  Basic  |    |[]()|
 |[Valid Parentheses](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/20.%20Valid%20Parentheses.ipynb?flush_cache=true)|  Easy  | Stack   |[20](https://leetcode.com/problems/valid-parentheses)|
+|[Min Stack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/155.%20Min%20Stack.ipynb?flush_cache=true)|  Medium  | Stack with each item =(val,min val so far)   |[155](https://leetcode.com/problems/min-stack)|
+|[Evaluate Reverse Polish Notation](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/150.%20Evaluate%20Reverse%20Polish%20Notation.ipynb?flush_cache=true)|  Medium  | Stack contains operands and results are pushed back to stack after performing the operation   |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation)|
 
 
 ## Trees
