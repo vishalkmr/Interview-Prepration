@@ -154,7 +154,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Valid Parentheses](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/20.%20Valid%20Parentheses.ipynb?flush_cache=true)|  Easy  | Stack   |[20](https://leetcode.com/problems/valid-parentheses)|
 |[Min Stack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/155.%20Min%20Stack.ipynb?flush_cache=true)|  Medium  | Stack with each item =(val,min val so far)   |[155](https://leetcode.com/problems/min-stack)|
 |[Evaluate Reverse Polish Notation](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/150.%20Evaluate%20Reverse%20Polish%20Notation.ipynb?flush_cache=true)|  Medium  | Stack contains operands and results are pushed back to stack after performing the operation   |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation)|
-
+|[Daily Temperatures](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/739.%20Daily%20Temperatures.ipynb?flush_cache=true)|  Medium  | Stack with each item =(val,idx)   |[739](https://leetcode.com/problems/daily-temperatures)|
 
 ## Trees
 | Problem | Level | Topic  | Leetcode |
