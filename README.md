@@ -155,6 +155,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Min Stack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/155.%20Min%20Stack.ipynb?flush_cache=true)|  Medium  | Stack with each item =(val,min val so far)   |[155](https://leetcode.com/problems/min-stack)|
 |[Evaluate Reverse Polish Notation](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/150.%20Evaluate%20Reverse%20Polish%20Notation.ipynb?flush_cache=true)|  Medium  | Stack contains operands and results are pushed back to stack after performing the operation   |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation)|
 |[Daily Temperatures](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/739.%20Daily%20Temperatures.ipynb?flush_cache=true)|  Medium  | Stack with each item =(val,idx)   |[739](https://leetcode.com/problems/daily-temperatures)|
+|[Largest Rectangle in Histogram](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/84.%20Largest%20Rectangle%20in%20Histogram.ipynb?flush_cache=true)|  Medium  | Stack with each item =(starting_index,height)   |[84](https://leetcode.com/problems/largest-rectangle-in-histogram)|
 
 ## Trees
 | Problem | Level | Topic  | Leetcode |
