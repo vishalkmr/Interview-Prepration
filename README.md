@@ -89,7 +89,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 ## Linked Lists
 | Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
-|[Linked List Cycle](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/141.%20Linked%20List%20Cycle.ipynb?flush_cache=true)|    |    |[141](https://leetcode.com/problems/linked-list-cycle)|
+|[Linked List Cycle](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/141.%20Linked%20List%20Cycle.ipynb?flush_cache=true)|    Easy  | 3 pointers curr/ahead/prev   |[141](https://leetcode.com/problems/linked-list-cycle)|
 |[Intersection of Two Linked Lists](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.ipynb?flush_cache=true)|    |    |[160](https://leetcode.com/problems/intersection-of-two-linked-lists)|
 |[Add Two Numbers](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/2.%20Add%20Two%20Numbers.ipynb?flush_cache=true)|    |    |[2](https://leetcode.com/problems/add-two-numbers)|
 |[Reverse Linked List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/206.%20Reverse%20Linked%20List.ipynb?flush_cache=true)|    |    |[206](https://leetcode.com/problems/reverse-linked-list)|
