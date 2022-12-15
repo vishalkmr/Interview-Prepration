@@ -2,7 +2,7 @@
 Contains basic code samples for a topic along with the LeetCode problems
 
 ## Arrays 
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Two Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/1.%20Two%20Sum.ipynb?flush_cache=true)|  Easy  | Hashing   |[1](https://leetcode.com/problems/two-sum)|
 |[Two Sum II - Input Array Is Sorted](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.ipynb?flush_cache=true)|  Medium  | Two-pointers   |[167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|
@@ -25,7 +25,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 
 
 ## Strings
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Valid Palindrome](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/125.%20Valid%20Palindrome.ipynb?flush_cache=true)|Easy | Two-pointers|[125](https://leetcode.com/problems/valid-palindrome)|
 |[Longest Common Prefix](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Strings/14.%20Longest%20Common%20Prefix.ipynb?flush_cache=true)|||[14](https://leetcode.com/problems/longest-common-prefix)|
@@ -39,7 +39,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[String Permutations](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/String%20Permutations.ipynb?flush_cache=true)|  Medium  | Recursively backtrack the unused element for permutation   |[]()|
 
 ## Back Tracking
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Subsets](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/78.%20Subsets.ipynb?flush_cache=true)|  Medium  | Add or skip element for current subset   |[78](https://leetcode.com/problems/subsets)|
 |[Subsets II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Arrays/90.%20Subsets%20II.ipynb?flush_cache=true)|  Medium  | Add or skip all element with same value for current subset   |[90](https://leetcode.com/problems/subsets-ii)|
@@ -50,7 +50,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 
 
 ## Dynamic Programming
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[01 Knapsack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/01%20Knapsack.ipynb?flush_cache=true)|    |    |[]()|
 |[Longest Common Subsequence](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/1143.%20Longest%20Common%20Subsequence.ipynb?flush_cache=true)|    |    |[1143](https://leetcode.com/problems/longest-common-subsequence)|
@@ -79,7 +79,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Subset Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Dynamic%20Programming/Subset%20Sum.ipynb?flush_cache=true)|    |    |[]()|
 
 ## Graph
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Surrounded Regions-Copy1](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Graph/130.%20Surrounded%20Regions-Copy1.ipynb?flush_cache=true)|    |    |[130](https://leetcode.com/problems/surrounded-regions-copy1)|
 |[Surrounded Regions](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Graph/130.%20Surrounded%20Regions.ipynb?flush_cache=true)|    |    |[130](https://leetcode.com/problems/surrounded-regions)|
@@ -87,7 +87,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Max Area of Island](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Graph/695.%20Max%20Area%20of%20Island.ipynb?flush_cache=true)|    |    |[695](https://leetcode.com/problems/max-area-of-island)|
 
 ## Linked Lists
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Linked List Cycle](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/141.%20Linked%20List%20Cycle.ipynb?flush_cache=true)|    |    |[141](https://leetcode.com/problems/linked-list-cycle)|
 |[Intersection of Two Linked Lists](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.ipynb?flush_cache=true)|    |    |[160](https://leetcode.com/problems/intersection-of-two-linked-lists)|
@@ -100,7 +100,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 
 
 ## Logical
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Pascal's Triangle](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Logical/118.%20Pascal%27s%20Triangle.ipynb?flush_cache=true)|    |    |[118](https://leetcode.com/problems/pascal's-triangle)|
 |[Single Number](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Logical/136.%20Single%20Number.ipynb?flush_cache=true)|    |    |[136](https://leetcode.com/problems/single-number)|
@@ -121,7 +121,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 
 
 ## Searching
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Searching](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Searching/0.%20Searching.ipynb?flush_cache=true)|    |    |[0](https://leetcode.com/problems/searching)|
 |[Find Minimum in Rotated Sorted Array](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Searching/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.ipynb?flush_cache=true)|    |    |[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|
@@ -139,7 +139,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 
 
 ## Sorting
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Sorting](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Sorting/0.%20Sorting.ipynb?flush_cache=true)|    |    |[0](https://leetcode.com/problems/sorting)|
 |[Remove Duplicates from Sorted Array](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Sorting/26.%20Remove%20Duplicates%20from%20Sorted%20Array.ipynb?flush_cache=true)|    |    |[26](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|
@@ -148,7 +148,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Car Fleet](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Sorting/853.%20Car%20Fleet.ipynb?flush_cache=true)|  Medium  | Reverse sort on position   |[853](https://leetcode.com/problems/car-fleet)|
 
 ## Stacks
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Stack](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/Stack.ipynb?flush_cache=true)|  Basic  |    |[]()|
 |[Valid Parentheses](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/20.%20Valid%20Parentheses.ipynb?flush_cache=true)|  Easy  | Stack   |[20](https://leetcode.com/problems/valid-parentheses)|
@@ -158,7 +158,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Largest Rectangle in Histogram](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Stacks/84.%20Largest%20Rectangle%20in%20Histogram.ipynb?flush_cache=true)|  Medium  | Stack with each item =(starting_index,height)   |[84](https://leetcode.com/problems/largest-rectangle-in-histogram)|
 
 ## Trees
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Same Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/100.%20Same%20Tree.ipynb?flush_cache=true)|    |    |[100](https://leetcode.com/problems/same-tree)|
 |[Symmetric Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/101.%20Symmetric%20Tree.ipynb?flush_cache=true)|    |    |[101](https://leetcode.com/problems/symmetric-tree)|
@@ -193,7 +193,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 
 
 ## Trie
-| Problem | Level | Topic  | Leetcode |
+| Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Implement Trie (Prefix Tree)](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trie/208.%20Implement%20Trie%20%28Prefix%20Tree%29.ipynb?flush_cache=true)|    |    |[208](https://leetcode.com/problems/implement-trie-(prefix-tree))|
 |[Design Add and Search Words Data Structure](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trie/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.ipynb?flush_cache=true)|    |    |[211](https://leetcode.com/problems/design-add-and-search-words-data-structure)|
