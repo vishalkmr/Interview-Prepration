@@ -90,10 +90,14 @@ Contains basic code samples for a topic along with the LeetCode problems
 | Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
 |[Reverse Linked List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/206.%20Reverse%20Linked%20List.ipynb?flush_cache=true)|    Easy  | 3 pointers curr/ahead/prev   |[206](https://leetcode.com/problems/reverse-linked-list)|
+|[Merge Two Sorted Lists](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/21.%20Merge%20Two%20Sorted%20Lists.ipynb?flush_cache=true)|  Easy  | Pointer which links min elements from each list   |[21](https://leetcode.com/problems/merge-two-sorted-lists)|
+|[Reorder List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/143.%20Reorder%20List.ipynb?flush_cache=true)|  Medium  | Reverse the second half list   |[143](https://leetcode.com/problems/reorder-list)|
+
+
 |[Linked List Cycle](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/141.%20Linked%20List%20Cycle.ipynb?flush_cache=true)|    |  |[141](https://leetcode.com/problems/linked-list-cycle)|
 |[Intersection of Two Linked Lists](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/160.%20Intersection%20of%20Two%20Linked%20Lists.ipynb?flush_cache=true)|    |    |[160](https://leetcode.com/problems/intersection-of-two-linked-lists)|
 |[Add Two Numbers](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/2.%20Add%20Two%20Numbers.ipynb?flush_cache=true)|    |    |[2](https://leetcode.com/problems/add-two-numbers)|
-|[Merge Two Sorted Lists](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/21.%20Merge%20Two%20Sorted%20Lists.ipynb?flush_cache=true)|    |    |[21](https://leetcode.com/problems/merge-two-sorted-lists)|
+
 |[Palindrome Linked List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/234.%20Palindrome%20Linked%20List.ipynb?flush_cache=true)|    |    |[234](https://leetcode.com/problems/palindrome-linked-list)|
 |[Delete Node in a Linked List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/237.%20Delete%20Node%20in%20a%20Linked%20List.ipynb?flush_cache=true)|    |    |[237](https://leetcode.com/problems/delete-node-in-a-linked-list)|
 |[Find the Duplicate Number](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/287.%20Find%20the%20Duplicate%20Number.ipynb?flush_cache=true)|    |    |[287](https://leetcode.com/problems/find-the-duplicate-number)|
