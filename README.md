@@ -166,20 +166,34 @@ Contains basic code samples for a topic along with the LeetCode problems
 ## Trees
 | Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
+|[Invert Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/226.%20Invert%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Recursive invert subtree using temp variable   |[226](https://leetcode.com/problems/invert-binary-tree)|
+|[Maximum Depth of Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Recursive adds the depth at each level   |[104](https://leetcode.com/problems/maximum-depth-of-binary-tree)|
+
+
 |[Same Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/100.%20Same%20Tree.ipynb?flush_cache=true)|    |    |[100](https://leetcode.com/problems/same-tree)|
+
 |[Symmetric Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/101.%20Symmetric%20Tree.ipynb?flush_cache=true)|    |    |[101](https://leetcode.com/problems/symmetric-tree)|
+
 |[Binary Tree Level Order Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/102.%20Binary%20Tree%20Level%20Order%20Traversal.ipynb?flush_cache=true)|    |    |[102](https://leetcode.com/problems/binary-tree-level-order-traversal)|
+
 |[Binary Tree Zigzag Level Order Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.ipynb?flush_cache=true)|    |    |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|
-|[Maximum Depth of Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb?flush_cache=true)|    |    |[104](https://leetcode.com/problems/maximum-depth-of-binary-tree)|
+|
 |[Construct Binary Tree from Preorder and Inorder Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.ipynb?flush_cache=true)|    |    |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|
+
 |[Convert Sorted Array to Binary Search Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.ipynb?flush_cache=true)|    |    |[108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|
+
 |[Balanced Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/110.%20Balanced%20Binary%20Tree.ipynb?flush_cache=true)|    |    |[110](https://leetcode.com/problems/balanced-binary-tree)|
+
 |[Path Sum II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/113.%20Path%20Sum%20II.ipynb?flush_cache=true)|    |    |[113](https://leetcode.com/problems/path-sum-ii)|
+
 |[Flatten Binary Tree to Linked List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.ipynb?flush_cache=true)|    |    |[114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|
+
 |[Binary Tree Maximum Path Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/124.%20Binary%20Tree%20Maximum%20Path%20Sum.ipynb?flush_cache=true)|    |    |[124](https://leetcode.com/problems/binary-tree-maximum-path-sum)|
+
 |[Count Good Nodes in Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.ipynb?flush_cache=true)|    |    |[1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|
+
 |[Binary Tree Right Side View](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/199.%20Binary%20Tree%20Right%20Side%20View.ipynb?flush_cache=true)|    |    |[199](https://leetcode.com/problems/binary-tree-right-side-view)|
-|[Invert Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/226.%20Invert%20Binary%20Tree.ipynb?flush_cache=true)|    |    |[226](https://leetcode.com/problems/invert-binary-tree)|
+
 |[Kth Smallest Element in a BST](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/230.%20Kth%20Smallest%20Element%20in%20a%20BST.ipynb?flush_cache=true)|    |    |[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|
 |[Lowest Common Ancestor of a Binary Search Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.ipynb?flush_cache=true)|    |    |[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|
 |[Lowest Common Ancestor of a Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.ipynb?flush_cache=true)|    |    |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
