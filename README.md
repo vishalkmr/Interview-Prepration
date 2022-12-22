@@ -100,7 +100,8 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Copy List with Random Pointer](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/138.%20Copy%20List%20with%20Random%20Pointer.ipynb?flush_cache=true)|  Medium  | Hash-Map={old_node:newly_created_copy_node}   |[138](https://leetcode.com/problems/copy-list-with-random-pointer)|
 |[Add Two Numbers](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/2.%20Add%20Two%20Numbers.ipynb?flush_cache=true)|  Medium  | Create a new linked list which contains the sum   |[2](https://leetcode.com/problems/add-two-numbers)|
 |[Find the Duplicate Number](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/287.%20Find%20the%20Duplicate%20Number.ipynb?flush_cache=true)|  Medium  | Slow and Fast pointer to detect and find the repeated element using slow2 pointer   |[287](https://leetcode.com/problems/find-the-duplicate-number)|
-
+|[Merge k Sorted Lists](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/23.%20Merge%20k%20Sorted%20Lists.ipynb?flush_cache=true)|  Hard  | Merge each consecutive list to form a final sorted linked list   |[23](https://leetcode.com/problems/merge-k-sorted-lists)|
+|[LRU Cache](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Linked%20Lists/146.%20LRU%20Cache.ipynb?flush_cache=true)|  Medium  | Hash-map with doubly linked list e.i. hash_map={Key:Doubly-Linked-List-Node}   |[146](https://leetcode.com/problems/lru-cache)|
 
 
 ## Logical
