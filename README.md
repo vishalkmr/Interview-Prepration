@@ -169,12 +169,11 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Invert Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/226.%20Invert%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Recursive invert subtree using temp variable   |[226](https://leetcode.com/problems/invert-binary-tree)|
 |[Same Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/100.%20Same%20Tree.ipynb?flush_cache=true)|  Easy  | Comapre both tree root values and also recursivly check thier left and right subtree are same or not   |[100](https://leetcode.com/problems/same-tree)|
 |[Subtree of Another Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/572.%20Subtree%20of%20Another%20Tree.ipynb?flush_cache=true)|  Easy  | Recursively check that the root/left-subtree/right-subtree is same as given subtree   |[572](https://leetcode.com/problems/subtree-of-another-tree)|
+|[Symmetric Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/101.%20Symmetric%20Tree.ipynb?flush_cache=true)|  Easy  | Comapre both node values and also recursivly check thier left_node.left== right_node.right and left_node.right==right_node.left   |[101](https://leetcode.com/problems/symmetric-tree)|
 |[Maximum Depth of Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Recursive adds the depth at each level   |[104](https://leetcode.com/problems/maximum-depth-of-binary-tree)|
 |[Balanced Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/110.%20Balanced%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Check the depth difference at each level   |[110](https://leetcode.com/problems/balanced-binary-tree)|
 |[Diameter of Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/543.%20Diameter%20of%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Diameter = depth of left subtree + depth of right subtree   |[543](https://leetcode.com/problems/diameter-of-binary-tree)|
 
-
-|[Symmetric Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/101.%20Symmetric%20Tree.ipynb?flush_cache=true)|    |    |[101](https://leetcode.com/problems/symmetric-tree)|
 
 |[Binary Tree Level Order Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/102.%20Binary%20Tree%20Level%20Order%20Traversal.ipynb?flush_cache=true)|    |    |[102](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 
