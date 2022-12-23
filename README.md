@@ -166,6 +166,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 ## Trees
 | Problem | Level | Hint  | Leetcode |
 |  :---: | :---: | :---: | :---: |
+|[Binary Tree Inorder Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/94.%20Binary%20Tree%20Inorder%20Traversal.ipynb?flush_cache=true)|  Easy  | Recursively solve left - process root - recursively solve right   |[94](https://leetcode.com/problems/binary-tree-inorder-traversal)|
 |[Invert Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/226.%20Invert%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Recursive invert subtree using temp variable   |[226](https://leetcode.com/problems/invert-binary-tree)|
 |[Same Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/100.%20Same%20Tree.ipynb?flush_cache=true)|  Easy  | Comapre both tree root values and also recursivly check thier left and right subtree are same or not   |[100](https://leetcode.com/problems/same-tree)|
 |[Subtree of Another Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/572.%20Subtree%20of%20Another%20Tree.ipynb?flush_cache=true)|  Easy  | Recursively check that the root/left-subtree/right-subtree is same as given subtree   |[572](https://leetcode.com/problems/subtree-of-another-tree)|
