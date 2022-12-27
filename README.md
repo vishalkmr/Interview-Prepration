@@ -174,9 +174,10 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Maximum Depth of Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Recursive adds the depth at each level   |[104](https://leetcode.com/problems/maximum-depth-of-binary-tree)|
 |[Balanced Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/110.%20Balanced%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Check the depth difference at each level   |[110](https://leetcode.com/problems/balanced-binary-tree)|
 |[Diameter of Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/543.%20Diameter%20of%20Binary%20Tree.ipynb?flush_cache=true)|  Easy  | Diameter = depth of left subtree + depth of right subtree   |[543](https://leetcode.com/problems/diameter-of-binary-tree)|
+|[Lowest Common Ancestor of a Binary Search Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.ipynb?flush_cache=true)|  Medium  | Recursively the subtree where both nodes present, anscestor is found when both node are in different subtree   |[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|
+|[Lowest Common Ancestor of a Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.ipynb?flush_cache=true)|  Medium  | Use postorder traversal and return the root if p & q are in different subtree or return left/rightcsubtree in which the p & q are found   |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
+|[Binary Tree Level Order Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/102.%20Binary%20Tree%20Level%20Order%20Traversal.ipynb?flush_cache=true)|  Medium  | BFS with Queue   |[102](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 
-
-|[Binary Tree Level Order Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/102.%20Binary%20Tree%20Level%20Order%20Traversal.ipynb?flush_cache=true)|    |    |[102](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 
 |[Binary Tree Zigzag Level Order Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.ipynb?flush_cache=true)|    |    |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|
 |
@@ -197,7 +198,6 @@ Contains basic code samples for a topic along with the LeetCode problems
 
 |[Kth Smallest Element in a BST](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/230.%20Kth%20Smallest%20Element%20in%20a%20BST.ipynb?flush_cache=true)|    |    |[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|
 
-|[Lowest Common Ancestor of a Binary Search Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.ipynb?flush_cache=true)|    |    |[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|
 
 |[Lowest Common Ancestor of a Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.ipynb?flush_cache=true)|    |    |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
 
