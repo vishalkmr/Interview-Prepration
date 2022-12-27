@@ -178,7 +178,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Lowest Common Ancestor of a Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.ipynb?flush_cache=true)|  Medium  | Use postorder traversal and return the root if p & q are in different subtree or return left/rightcsubtree in which the p & q are found   |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|
 |[Binary Tree Level Order Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/102.%20Binary%20Tree%20Level%20Order%20Traversal.ipynb?flush_cache=true)|  Medium  | BFS with Queue and at each level add all the nodes of current level into final level order traversal   |[102](https://leetcode.com/problems/binary-tree-level-order-traversal)|
 |[Binary Tree Right Side View](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/199.%20Binary%20Tree%20Right%20Side%20View.ipynb?flush_cache=true)|  Medium  | BFS with Queue and at each level add the right most node into final right side view   |[199](https://leetcode.com/problems/binary-tree-right-side-view)|
-
+|[Binary Tree Left Side View](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Binary%20Tree%20Lefr%20Side%20View.ipynb?flush_cache=true)|  Medium  | BFS with Queue and add the left most node from current level order into final right side view   |[]()|
 
 
 
