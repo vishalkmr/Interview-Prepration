@@ -206,9 +206,6 @@ Contains basic code samples for a topic along with the LeetCode problems
 
 |[Vertical Order Traversal of a Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.ipynb?flush_cache=true)|    |    |[987](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|
 
-|[Binary Tree Bottom View](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Binary%20Tree%20Bottom%20View.ipynb?flush_cache=true)|    |    |[]()|
-
-|[Binary Tree Top View](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Binary%20Tree%20Top%20View.ipynb?flush_cache=true)|    |    |[]()|
 
 |[Binary Tree With Given Sum From Root](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Binary%20Tree%20With%20Given%20Sum%20From%20Root.ipynb?flush_cache=true)|    |    |[]()|
 
