@@ -188,12 +188,13 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Construct Binary Tree from Preorder and Inorder Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.ipynb?flush_cache=true)|  Medium  |  position_of_root=inorder.index(preorder[0]), update the preorder/inorder list accordingly  |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|
 |[Paths From Root to Given Node In Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Paths%20From%20Root%20to%20Given%20Node%20In%20Binary%20Tree.ipynb?flush_cache=true)|  Medium  | Recursively maintain a curr_path and if node found add it to final_path   |[-](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Paths%20From%20Root%20to%20Given%20Node%20In%20Binary%20Tree.ipynb?flush_cache=true)|
 |[Path Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/112.%20Path%20Sum.ipynb)|  Easy  | Sum is found when target value becomes 0 and node is leaf node, update the node and target recursively   |[112](https://leetcode.com/problems/path-sum)|
+|[Path Sum II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/113.%20Path%20Sum%20II.ipynb?flush_cache=true)|  Medium  | Update the current node, its target value and the current_path recursively   |[113](https://leetcode.com/problems/path-sum-ii)|
+
+
 
 
 |[Convert Sorted Array to Binary Search Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.ipynb?flush_cache=true)|    |    |[108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|
 
-
-|[Path Sum II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/113.%20Path%20Sum%20II.ipynb?flush_cache=true)|    |    |[113](https://leetcode.com/problems/path-sum-ii)|
 
 |[Flatten Binary Tree to Linked List](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.ipynb?flush_cache=true)|    |    |[114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|
 
