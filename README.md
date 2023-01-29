@@ -187,10 +187,11 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Kth Smallest Element in a BST](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/230.%20Kth%20Smallest%20Element%20in%20a%20BST.ipynb?flush_cache=true)|  Medium  | K time inorder traversal   |[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|
 |[Construct Binary Tree from Preorder and Inorder Traversal](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.ipynb?flush_cache=true)|  Medium  |  position_of_root=inorder.index(preorder[0]), update the preorder/inorder list accordingly  |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|
 |[Paths From Root to Given Node In Binary Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Paths%20From%20Root%20to%20Given%20Node%20In%20Binary%20Tree.ipynb?flush_cache=true)|  Medium  | Recursively maintain a curr_path and if node found add it to final_path   |[-](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Paths%20From%20Root%20to%20Given%20Node%20In%20Binary%20Tree.ipynb?flush_cache=true)|
-|[Path Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/112.%20Path%20Sum.ipynb)|  Easy  | Sum is found when target value becomes 0 and node is leaf node, update the node and target recursively   |[112](https://leetcode.com/problems/path-sum)|
+|[Binary Tree With Given Sum From Root](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Binary%20Tree%20With%20Given%20Sum%20From%20Root.ipynb?flush_cache=true)|  Easy  | Update the node and target recursively, return True when target value becomes 0   |[-](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Binary%20Tree%20With%20Given%20Sum%20From%20Root.ipynb?flush_cache=true)|
+|[Path Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/112.%20Path%20Sum.ipynb)|  Easy  | Update the node and target recursively, return True when target value becomes 0 and node is leaf node |[112](https://leetcode.com/problems/path-sum)|
 |[Path Sum II](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/113.%20Path%20Sum%20II.ipynb?flush_cache=true)|  Medium  | Update the current node, its target value and the current_path recursively   |[113](https://leetcode.com/problems/path-sum-ii)|
-
-
+|[Number Of Paths in Binary Tree With Given Sum From Root](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Number%20Of%20Paths%20in%20Binary%20Tree%20With%20Given%20Sum%20From%20Root.ipynb?flush_cache=true)|  Medium  | total paths = left_subtree_paths+right_subtree_paths+root_has_targetSum   |[-](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/Number%20Of%20Paths%20in%20Binary%20Tree%20With%20Given%20Sum%20From%20Root.ipynb?flush_cache=true)|
+|[Path Sum III (Number Of Paths in Binary Tree With Given Sum)](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/437.%20Path%20Sum%20III%20%28Number%20Of%20Paths%20in%20Binary%20Tree%20With%20Given%20Sum%29.ipynb?flush_cache=true)|    |    |[437](https://leetcode.com/problems/path-sum-iii-(number-of-paths-in-binary-tree-with-given-sum))|
 
 
 |[Convert Sorted Array to Binary Search Tree](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.ipynb?flush_cache=true)|    |    |[108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|
@@ -201,7 +202,7 @@ Contains basic code samples for a topic along with the LeetCode problems
 |[Binary Tree Maximum Path Sum](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/124.%20Binary%20Tree%20Maximum%20Path%20Sum.ipynb?flush_cache=true)|    |    |[124](https://leetcode.com/problems/binary-tree-maximum-path-sum)|
 
 
-|[Path Sum III (Number Of Paths in Binary Tree With Given Sum)](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/437.%20Path%20Sum%20III%20%28Number%20Of%20Paths%20in%20Binary%20Tree%20With%20Given%20Sum%29.ipynb?flush_cache=true)|    |    |[437](https://leetcode.com/problems/path-sum-iii-(number-of-paths-in-binary-tree-with-given-sum))|
+
 
 |[Unique Binary Search Trees](https://nbviewer.org/github/vishalkmr/Interview-Prepration/blob/main/Trees/96.%20Unique%20Binary%20Search%20Trees.ipynb?flush_cache=true)|    |    |[96](https://leetcode.com/problems/unique-binary-search-trees)|
 
